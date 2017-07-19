@@ -43,3 +43,4 @@ Jul 16 23:15:33 tony-powells-mac-pro-2 OpenEmuHelperApp[1330]: parent applicatio
 Jul 16 23:15:33 tony-powells-mac-pro-2 OpenEmuHelperApp[1330]: Macally ICEKEY2 Keyboard
 Jul 16 23:15:33 tony-powells-mac-pro-2 OpenEmuHelperApp[1330]: ROM did not load.
  
+second submit
